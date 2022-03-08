@@ -55,7 +55,7 @@ public class Asteroid {
         if (angleA > 90 && position.x < -128) {
             angleA = -(angleA-180);
         }
-    }
+    }//////
 }
 
 
